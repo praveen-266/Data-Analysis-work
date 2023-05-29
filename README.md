@@ -25,14 +25,14 @@ In this repository, you will find information about my data analysis work, inclu
 - Machine learning
 - SQL and database management
 - Programming languages: Python (NumPy, Pandas, matplotlib, scikit-learn), SQL
-- 
+
 
 ## Technologies Used
 
 - **Python:** I utilize Python's programing language for data analysis, including libraries such as NumPy, Pandas, matplotlib, and scikit-learn.
 
 - **SQL:** I have experience working with SQL databases to extract, transform, and analyze data.
-- 
+
 - **Jupyter Notebook:** I work extensively with Jupyter Notebook to document my analysis process, share code, and showcase results.
 
 ## Feedback 
