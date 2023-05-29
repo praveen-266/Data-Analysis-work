@@ -11,9 +11,9 @@ In this repository, you will find information about my data analysis work, inclu
 - **Statistical Analysis:** I have a strong background in statistics and can apply a wide range of statistical techniques to analyze data. From hypothesis testing to regression analysis, I can provide robust statistical insights.
 
 - **Data Visualization:** I believe in the power of effective data visualization. I can create compelling visualizations using tools like Python's matplotlib and seaborn libraries, Tableau, or Power BI to present data-driven stories in an intuitive and engaging manner.
-- 
+
 - **Feature Selection:**  I employ various statistical techniques, such as correlation analysis, information gain, and mutual information, to identify features with high predictive power.
-- 
+
 - **Feature Engineering:**  I apply various techniques, such as logarithmic transformations, scaling, and one-hot encoding, to ensure that features are in the appropriate format and have the desired statistical properties.
 
 ## Skills
